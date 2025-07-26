@@ -1,6 +1,6 @@
-# LoginPage
+# Login Page 
 
-## mockup do projeto
+## Project
 <img src="https://github.com/LuuizPaes/login-page-angular/blob/master/src/assets/muckup.png?raw=true" alt="mockup-project">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
